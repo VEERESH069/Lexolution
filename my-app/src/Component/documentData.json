@@ -1,0 +1,421 @@
+{
+    "documentsData": [
+      {
+        "category": "Educational Loan Documents",
+        "documents": [
+          {
+            "name": "Educational Loan Application Form",
+            "description": "The official loan application form provided by the financial institution or bank.",
+            "purpose": "It contains personal information, details about the education program, and the loan amount requested."
+          },
+          {
+            "name": "Proof of Identity",
+            "description": "Official identification documents to verify the identity of the borrower."
+          },
+          {
+            "name": "Proof of Address",
+            "description": "Documents such as utility bills, rental agreements, or bank statements to verify the borrower’s address."
+          }
+        ]
+      },
+      {
+        "category": "Property Deals",
+        "documents": [
+          {
+            "name": "Title Deed",
+            "description": "The legal document that establishes ownership of a property."
+          },
+          {
+            "name": "Sales Agreement/Contract (Purchase Agreement)",
+            "description": "The contract between the buyer and seller, outlining the terms of the sale."
+          }
+        ]
+      },
+      {
+        "category": "Corporate Law Documents",
+        "documents": [
+          {
+            "name": "Articles of Incorporation",
+            "description": "The legal document that establishes the existence of a corporation, outlining its purpose, structure, and management."
+          },
+          {
+            "name": "Certificate of Incorporation",
+            "description": "A government-issued document confirming the legal formation of a corporation."
+          },
+          {
+            "name": "Employer Identification Number (EIN)",
+            "description": "A unique identification number assigned to a business entity by the IRS for tax purposes."
+          },
+          {
+            "name": "Operating Agreement",
+            "description": "An agreement that outlines the operating procedures, responsibilities, and governance structure of a limited liability company (LLC)."
+          },
+          {
+            "name": "Shareholder Agreement",
+            "description": "A legal agreement between a corporation and its shareholders outlining their rights, responsibilities, and ownership structure."
+          },
+          {
+            "name": "Stock Certificate",
+            "description": "A physical or electronic certificate representing ownership in a corporation, issued to shareholders."
+          },
+          {
+            "name": "Board Resolutions",
+            "description": "Formal documents that record decisions made by a corporation's board of directors."
+          },
+          {
+            "name": "Bylaws",
+            "description": "The internal rules and regulations governing the operations of a corporation, including the duties of officers and directors."
+          },
+          {
+            "name": "Board Meeting Minutes",
+            "description": "Official written records of decisions made during meetings of the board of directors."
+          },
+          {
+            "name": "Corporate Policies",
+            "description": "Documents outlining the policies and procedures that guide a corporation's operations and activities."
+          },
+          {
+            "name": "Financial Statements",
+            "description": "Reports that summarize the financial performance and position of a corporation, including balance sheets, income statements, and cash flow statements."
+          },
+          {
+            "name": "Tax Filings",
+            "description": "Documents filed with tax authorities, such as corporate income tax returns (e.g., Form 1120 in the U.S.)."
+          },
+          {
+            "name": "Audit Reports",
+            "description": "Independent evaluations of a corporation’s financial statements, typically conducted by a certified public accountant (CPA)."
+          },
+          {
+            "name": "Regulatory Filings",
+            "description": "Documents filed with governmental or regulatory bodies to ensure compliance with applicable laws and regulations."
+          },
+          {
+            "name": "Licenses and Permits",
+            "description": "Documents required for a corporation to legally operate in specific industries or jurisdictions, such as business licenses or environmental permits."
+          },
+          {
+            "name": "Commercial Contracts",
+            "description": "Legally binding agreements between a corporation and third parties related to the sale of goods, services, or other business activities."
+          },
+          {
+            "name": "Employment Contracts",
+            "description": "Contracts between an employer and an employee outlining the terms and conditions of employment."
+          },
+          {
+            "name": "Non-Disclosure Agreements (NDAs)",
+            "description": "Agreements that prevent the sharing of confidential information between parties, often used in business transactions and partnerships."
+          },
+          {
+            "name": "Patent Documents",
+            "description": "Legal documents granted by a government that grant exclusive rights to a corporation over its inventions or processes."
+          },
+          {
+            "name": "Trademark Registration",
+            "description": "Documents showing the registration of a corporation’s logo, brand name, or slogan as a trademark."
+          },
+          {
+            "name": "Copyright Registration",
+            "description": "A document granting the corporation the exclusive right to use and reproduce original works of authorship."
+          },
+          {
+            "name": "Litigation Documents",
+            "description": "Documents related to legal disputes involving the corporation, such as lawsuits, pleadings, and court orders."
+          },
+          {
+            "name": "Settlement Agreements",
+            "description": "Documents that record the terms and conditions of a settlement between parties involved in a legal dispute."
+          },
+          {
+            "name": "Arbitration Agreements",
+            "description": "Contracts that require parties to resolve disputes through arbitration rather than through the court system."
+          }
+        ]
+      },
+      {
+        "category": "Labour Law Documents",
+        "documents": [
+          {
+            "name": "Employment Contract",
+            "description": "A formal agreement between an employer and an employee outlining the terms and conditions of employment, including salary, benefits, and job responsibilities."
+          },
+          {
+            "name": "Non-Disclosure Agreement (NDA)",
+            "description": "A legal document that ensures employees do not disclose confidential information to outside parties during and after employment."
+          },
+          {
+            "name": "Non-Compete Agreement",
+            "description": "An agreement that prohibits employees from starting or working for a competing business for a specified period after leaving the company."
+          },
+          {
+            "name": "Independent Contractor Agreement",
+            "description": "An agreement between a company and an independent contractor that outlines the terms of work and compensation, differentiating from regular employment."
+          },
+          {
+            "name": "Employee Handbook",
+            "description": "A document that outlines company policies, procedures, and expectations for employees regarding behavior, ethics, and responsibilities."
+          },
+          {
+            "name": "Workplace Safety Guidelines",
+            "description": "Documents that specify the safety procedures and protocols employees are expected to follow to ensure a safe working environment."
+          },
+          {
+            "name": "Leave of Absence Policy",
+            "description": "The document that defines the types of leaves (e.g., sick leave, vacation, maternity leave) and the procedure for requesting leave."
+          },
+          {
+            "name": "Anti-Harassment Policy",
+            "description": "A policy that outlines the company’s commitment to preventing workplace harassment and defines how employees should report harassment."
+          },
+          {
+            "name": "Payroll Records",
+            "description": "Documents that record an employee’s compensation, including wages, bonuses, deductions, and net pay."
+          },
+          {
+            "name": "Benefits Enrollment Forms",
+            "description": "Forms filled out by employees to enroll in company benefits, such as health insurance, retirement savings plans, and other employee perks."
+          },
+          {
+            "name": "Pay Slips",
+            "description": "Documents provided by employers that outline an employee's earnings, deductions, and other financial information related to employment."
+          },
+          {
+            "name": "Bonus and Incentive Documents",
+            "description": "Documentation outlining any performance bonuses, incentives, or profit-sharing programs available to employees."
+          },
+          {
+            "name": "Workplace Safety Inspection Reports",
+            "description": "Reports of safety inspections conducted to ensure that workplace conditions comply with health and safety regulations."
+          },
+          {
+            "name": "Equal Opportunity Employment (EOE) Policy",
+            "description": "A document affirming that the company provides equal employment opportunities to all employees and applicants, regardless of race, color, gender, or other factors."
+          },
+          {
+            "name": "Worker’s Compensation Insurance Documents",
+            "description": "Documents detailing the insurance coverage for employees in case of workplace injuries or accidents."
+          },
+          {
+            "name": "Termination Letter",
+            "description": "A formal letter issued by an employer to notify an employee of the end of their employment, stating the reasons and terms of termination."
+          },
+          {
+            "name": "Severance Agreement",
+            "description": "An agreement that outlines the terms of an employee’s separation from the company, including severance pay, benefits, and other entitlements."
+          },
+          {
+            "name": "Resignation Letter",
+            "description": "A letter written by an employee to formally notify the employer of their intention to leave the company."
+          },
+          {
+            "name": "Disciplinary Action Records",
+            "description": "Documents that record any disciplinary actions taken against an employee due to violations of company policies or poor performance."
+          },
+          {
+            "name": "Arbitration or Mediation Agreement",
+            "description": "An agreement that mandates the resolution of disputes through arbitration or mediation rather than through a formal court procedure."
+          },
+          {
+            "name": "Collective Bargaining Agreement",
+            "description": "A formal contract between a union and an employer, specifying the terms of employment, wages, benefits, and working conditions."
+          },
+          {
+            "name": "Union Membership Agreement",
+            "description": "A document that an employee signs to join a labor union, agreeing to abide by the union's rules and pay dues."
+          },
+          {
+            "name": "Union Election Documents",
+            "description": "Documents related to the election process of union representatives, including nomination forms, ballots, and results."
+          }
+        ]
+      },
+      {
+        "category": "Criminal and Bail Documents",
+        "documents": [
+          {
+            "name": "Charge Sheet",
+            "description": "The official document filed by the prosecution outlining the charges against the defendant."
+          },
+          {
+            "name": "FIR (First Information Report)",
+            "description": "A report lodged by the police at the beginning of a criminal investigation."
+          },
+          {
+            "name": "Arrest Warrant",
+            "description": "A court order authorizing the police to arrest a suspect."
+          },
+          {
+            "name": "Bail Application",
+            "description": "A formal request submitted by the defendant or their lawyer asking for bail."
+          },
+          {
+            "name": "Court Summons",
+            "description": "A legal notice requiring the defendant to appear in court."
+          },
+          {
+            "name": "Witness Statements",
+            "description": "Statements provided by witnesses who have relevant information related to the criminal case."
+          },
+          {
+            "name": "Evidence Documents",
+            "description": "Documents that present physical evidence or forensic evidence supporting the case."
+          },
+          {
+            "name": "Criminal History Report",
+            "description": "A report outlining the defendant's past criminal records, if applicable."
+          },
+          {
+            "name": "Bail Bond",
+            "description": "A document signed by a bail bondsman or co-signer that guarantees the defendant's appearance in court."
+          },
+          {
+            "name": "Bail Order",
+            "description": "The official document issued by the court granting bail to the defendant."
+          },
+          {
+            "name": "Surety Documents",
+            "description": "Documents provided by a surety (someone vouching for the defendant's appearance in court) as part of the bail process."
+          },
+          {
+            "name": "Bail Payment Receipt",
+            "description": "Receipt showing that bail has been paid, either in cash or through a bond."
+          },
+          {
+            "name": "Personal Recognizance Bond",
+            "description": "A document signed by the defendant stating they will appear in court without needing to pay bail."
+          }
+        ]
+      },
+      {
+        "category": "Migration Documents",
+        "documents": [
+          {
+            "name": "Passport",
+            "description": "The official travel document issued by the government that serves as proof of identity and nationality."
+          },
+          {
+            "name": "National ID",
+            "description": "An official government-issued identification card that serves as proof of citizenship."
+          },
+          {
+            "name": "Birth Certificate",
+            "description": "A document recording the birth of an individual, providing proof of age and nationality."
+          },
+          {
+            "name": "Visa Application",
+            "description": "The application form completed for obtaining permission to enter, stay, or work in a foreign country."
+          },
+          {
+            "name": "Work Permit",
+            "description": "A document allowing an individual to work legally in a foreign country."
+          },
+          {
+            "name": "Residence Permit",
+            "description": "A document that grants permission to reside in a country for an extended period of time."
+          },
+          {
+            "name": "Student Visa",
+            "description": "A visa issued to individuals intending to study in a foreign country."
+          },
+          {
+            "name": "Employment Contract",
+            "description": "A formal agreement between the migrant and an employer outlining the terms of employment."
+          },
+          {
+            "name": "Income Tax Returns",
+            "description": "Documents detailing an individual's income and taxes paid in their home country."
+          },
+          {
+            "name": "Bank Statements",
+            "description": "Recent bank statements showing proof of financial stability and income."
+          },
+          {
+            "name": "Academic Transcripts",
+            "description": "Official records from educational institutions detailing an individual's academic performance."
+          },
+          {
+            "name": "Diploma or Degree Certificate",
+            "description": "A certificate awarded upon the completion of a course of study, such as a high school diploma or university degree."
+          },
+          {
+            "name": "Health Insurance",
+            "description": "Proof of health insurance coverage in the destination country, required for residency or employment."
+          },
+          {
+            "name": "Medical Examination Report",
+            "description": "A report from a licensed doctor confirming the migrant's health status, often required for visa approval."
+          },
+          {
+            "name": "Marriage Certificate",
+            "description": "An official document recognizing the legal union between two individuals, required for family reunification."
+          },
+          {
+            "name": "Child Custody or Adoption Documents",
+            "description": "Legal documents that prove the custodial rights of children or adoption details, necessary for family migration."
+          },
+          {
+            "name": "Language Proficiency Certificates",
+            "description": "Certificates proving the individual's ability to communicate in the official language(s) of the destination country."
+          },
+          {
+            "name": "Cultural Assimilation Documents",
+            "description": "Documents that may demonstrate an understanding of and readiness for the cultural aspects of the new country."
+          },
+          {
+            "name": "Travel Itinerary",
+            "description": "Detailed plans for travel, including flight bookings, accommodation arrangements, and any planned travel within the destination country."
+          },
+          {
+            "name": "Accommodation Proof",
+            "description": "Documents proving that the individual has secured a place to stay in the destination country, such as a rental agreement."
+          }
+        ]
+      },
+      {
+        "category": "Passport Documents",
+        "documents": [
+          {
+            "name": "Passport Application Form",
+            "description": "The official form filled out by the applicant to apply for a passport."
+          },
+          {
+            "name": "Passport",
+            "description": "The official travel document issued by the government that serves as proof of identity and nationality."
+          },
+          {
+            "name": "Birth Certificate",
+            "description": "A document recording the birth of an individual, providing proof of age and nationality, often required when applying for a passport."
+          },
+          {
+            "name": "National ID Card",
+            "description": "A government-issued identification card that may be used as a supporting document for passport applications."
+          },
+          {
+            "name": "Photographs",
+            "description": "Recent passport-sized photographs that meet the official requirements for passport application."
+          },
+          {
+            "name": "Naturalization Certificate",
+            "description": "A certificate proving that an individual has obtained citizenship in a particular country."
+          },
+          {
+            "name": "Citizenship Certificate",
+            "description": "A government-issued document confirming the individual's citizenship status."
+          },
+          {
+            "name": "Travel Itinerary",
+            "description": "A detailed schedule of travel plans, including flight bookings and accommodation arrangements, sometimes required for a passport renewal or visa application."
+          },
+          {
+            "name": "Previous Passport (if applicable)",
+            "description": "The applicant's old passport, if applicable, which may be required for renewal or replacement purposes."
+          },
+          {
+            "name": "Parental Consent (for minors)",
+            "description": "A document providing consent from parents or guardians for a minor to apply for a passport."
+          }
+        ]
+      }
+    ]
+  }
+  
